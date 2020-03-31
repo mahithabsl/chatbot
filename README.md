@@ -16,5 +16,5 @@
 * Simple web socket server
 * HTML5
 * CSS
-* NLP
+* Natural language processing(NLP)
 
